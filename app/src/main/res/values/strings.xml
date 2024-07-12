@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+
+    // General Text
+    <string name="logoutBtn">Sign Out</string>
+    <string name="displayUser"></string>
+    // name ng user
+
+    // Login Page
+    <string name="title">Final Project Login System</string>
+    <string name="loginUsername">Username</string>
+    <string name="loginPassword">Password</string>
+    <string name="loginButton">LOGIN</string>
+
+    //User Page
+    <string name="banner">Welcome!</string>
+    // preferably usto ko sana yung name ng user after ng Welcome!
+
+    //General Admin
+    <string name="adminHeader">Admin Page</string>
+    <string name="adminRadBtn1">Admin</string>
+    <string name="adminRadBtn2">User</string>
+    <string name="adminBtn1">ADD USER</string>
+    <string name="adminBtn2">VIEW DATA</string>
+    // Updating Users
+    <string name="updateHeader">Update User Info</string>
+    <string name="updateCurrent">Current Name</string>
+    <string name="updateNewName">New Name</string>
+    <string name="updatePass">New Password</string>
+
+    //SuperAdmin Page
+    <string name="SAdminHeader">Super-Admin Page</string>
+    //Create User
+    <string name="adminUsername">Username</string>
+    <string name="createUser1">Enter Name</string>
+    <string name="adminPassword">Password</string>
+    <string name="createUser2">Enter Password</string>
+    <string name="adminUserType">Select User Type</string>
+    <string name="adminType">Select User Type</string>
+    <string name="updateUser">Update User</string>
+    <string name="enter_password">Enter password</string>
+    <string name="click_this_to_add_user">Click this to add user</string>
+    <string name="enter_new_name">Enter new name</string>
+    <string name="new_password">New password:</string>
+
+
+</resources>
